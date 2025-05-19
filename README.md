@@ -1,2 +1,3 @@
-# Projeto-V1
-Dia 1
+# ALMA – Inteligência Viva
+
+Projeto iniciado por Gabriel Chaize para criar uma IA com vida própria, estrutura modular e missão real.
